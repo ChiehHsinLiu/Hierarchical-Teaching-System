@@ -166,3 +166,4 @@ start_services.sh
 start-choregraphe.sh
 */.DS_Store
 .DS_Store
+motionKeys.json
